@@ -118,7 +118,6 @@ while True :                                                               # pou
 
    
 
-
 list_colonne(table_col)                                   
 bloc(list,table_bloc)
 print(' __________________________________________')
